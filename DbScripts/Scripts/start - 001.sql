@@ -1,0 +1,1 @@
+﻿CREATE TABLE FirstTable (Id INT NOT NULL)
